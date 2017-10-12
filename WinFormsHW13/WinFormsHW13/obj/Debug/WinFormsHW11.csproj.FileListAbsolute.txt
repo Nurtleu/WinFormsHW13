@@ -1,0 +1,10 @@
+D:\WindowsForms\HomeWork\WinFormsHW13\WinFormsHW13\bin\Debug\WinFormsHW13.exe.config
+D:\WindowsForms\HomeWork\WinFormsHW13\WinFormsHW13\bin\Debug\WinFormsHW13.exe
+D:\WindowsForms\HomeWork\WinFormsHW13\WinFormsHW13\bin\Debug\WinFormsHW13.pdb
+D:\WindowsForms\HomeWork\WinFormsHW13\WinFormsHW13\obj\Debug\WinFormsHW11.csprojResolveAssemblyReference.cache
+D:\WindowsForms\HomeWork\WinFormsHW13\WinFormsHW13\obj\Debug\WinFormsHW13.Explorer.resources
+D:\WindowsForms\HomeWork\WinFormsHW13\WinFormsHW13\obj\Debug\WinFormsHW13.Properties.Resources.resources
+D:\WindowsForms\HomeWork\WinFormsHW13\WinFormsHW13\obj\Debug\WinFormsHW11.csproj.GenerateResource.Cache
+D:\WindowsForms\HomeWork\WinFormsHW13\WinFormsHW13\obj\Debug\WinFormsHW11.csproj.CoreCompileInputs.cache
+D:\WindowsForms\HomeWork\WinFormsHW13\WinFormsHW13\obj\Debug\WinFormsHW13.exe
+D:\WindowsForms\HomeWork\WinFormsHW13\WinFormsHW13\obj\Debug\WinFormsHW13.pdb
